@@ -7,4 +7,6 @@ A simple project running in a Docker environment for sending and receiving simpl
 Just set permissions to execute the file "startup.sh" 
 ex: chmod +x startup.sh
 
+Run script with ./startup.sh
+
 Now the producer will be running on port 8085.
